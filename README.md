@@ -13,7 +13,7 @@ this repository is collection of all the projects which I'll be making during th
 | 05  | [Blurry Loading](https://github.com/ankitmrmishra/blurry-loading)                       | [Live Demo](https://ankitmrmishra.github.io/blurry-loading/) |
 | 06  | [Scroll Animation](https://github.com/ankitmrmishra/scroll-animation)                       | [Live Demo](https://ankitmrmishra.github.io/scroll-animation/) |
 | 07  | [Split Landing Page](https://github.com/ankitmrmishra/split-landing-page)                       | [Live Demo](https://ankitmrmishra.github.io/split-landing-page/) |
-| 08  | [Split Landing Page](https://github.com/ankitmrmishra/sound-board)                       | [Live Demo](https://ankitmrmishra.github.io/sound-board/) |
+| 08  | [Sound Board](https://github.com/ankitmrmishra/sound-board)                       | [Live Demo](https://ankitmrmishra.github.io/sound-board/) |
 
 
 **THANK YOU**

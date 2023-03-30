@@ -19,6 +19,7 @@ this repository is collection of all the projects which I'll be making during th
 | 11  | [Dad Jokes](https://github.com/ankitmrmishra/DAD-JOKES)                       | [Live Demo](https://ankitmrmishra.github.io/DAD-JOKES/) |
 | 12  | [Github Profile](https://github.com/ankitmrmishra/github-profile)                       | [Live Demo](https://ankitmrmishra.github.io/github-profile/) |
 | 13  | [Event Keycodes](https://github.com/ankitmrmishra/Event-Keycodes)                       | [Live Demo](https://ankitmrmishra.github.io/Event-Keycodes/) |
+| 14  | [Faq-Collapse](https://github.com/ankitmrmishra/faq-collapse)                       | [Live Demo](https://ankitmrmishra.github.io/faq-collapse/) |
 
 
 **THANK YOU**
